@@ -1,0 +1,8 @@
+{
+  "name": "Universal Translator Video Meeting",
+  "description": "A real-time video conferencing app with live translation and subtitles using LiveKit and Gemini AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
